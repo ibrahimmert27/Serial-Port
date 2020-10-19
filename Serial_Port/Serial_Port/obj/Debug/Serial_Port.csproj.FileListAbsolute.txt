@@ -1,0 +1,8 @@
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Serial_Port\Serial_Port\bin\Debug\Serial_Port.exe
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Serial_Port\Serial_Port\bin\Debug\Serial_Port.pdb
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Serial_Port\Serial_Port\obj\Debug\Serial_Port.csprojResolveAssemblyReference.cache
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Serial_Port\Serial_Port\obj\Debug\Serial_Port.Form1.resources
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Serial_Port\Serial_Port\obj\Debug\Serial_Port.Properties.Resources.resources
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Serial_Port\Serial_Port\obj\Debug\Serial_Port.csproj.GenerateResource.Cache
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Serial_Port\Serial_Port\obj\Debug\Serial_Port.exe
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Serial_Port\Serial_Port\obj\Debug\Serial_Port.pdb
